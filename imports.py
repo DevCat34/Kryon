@@ -27,3 +27,5 @@ from discord.ext import commands
 from discord.utils import utcnow
 
 from dotenv import load_dotenv
+# Escribir esto en la terminal para que funcione correctamente.
+# pip install discord.py python-dotenv

@@ -1,0 +1,293 @@
+{
+  "server_settings": {
+    "123456789012345678": {
+      "logs": 987654321098765432,
+      "verification": {
+        "channel": 111111111111111111,
+        "role_ok": 222222222222222222,
+        "role_ko": 333333333333333333
+      },
+      "suggestions_channel": 444444444444444444
+    },
+    "1416797891359543348": {
+      "suggestions_channel": 1510707140816404602,
+      "review_channel": 1510714653729231022,
+      "review_enabled": true
+    }
+  },
+  "banned_words": {},
+  "raid_settings": {},
+  "sanctions": {},
+  "temp_bans": [],
+  "counting": {
+    "1416797891359543348": {
+      "enabled": true,
+      "channel_id": 1511002395340046397,
+      "punishment_role": null,
+      "current_number": 1,
+      "last_user": null
+    }
+  },
+  "suggestion_counter": 27,
+  "suggestions": {
+    "1": {
+      "guild_id": 123456789012345678,
+      "author_id": 555555555555555555,
+      "message_id": 666666666666666666,
+      "text": "Añadir sistema de tickets",
+      "status": "review",
+      "upvotes": [
+        777777777777777777,
+        888888888888888888
+      ],
+      "downvotes": [
+        999999999999999999
+      ]
+    },
+    "2": {
+      "guild_id": 123456789012345678,
+      "author_id": 555555555555555555,
+      "message_id": 777777777777777777,
+      "text": "Crear eventos semanales",
+      "status": "accepted",
+      "upvotes": [
+        111111111111111111
+      ],
+      "downvotes": []
+    },
+    "3": {
+      "guild_id": 123456789012345678,
+      "author_id": 222222222222222222,
+      "message_id": 888888888888888888,
+      "text": "Quitar el canal memes",
+      "status": "rejected",
+      "upvotes": [],
+      "downvotes": [
+        333333333333333333,
+        444444444444444444
+      ]
+    },
+    "4": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510707507843039413,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "5": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510708968945615059,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "6": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510711437431935187,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "7": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510712088031400148,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "8": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510712395142664236,
+      "text": "a",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "9": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510714723396620320,
+      "text": "a",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "10": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510724433365700610,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "11": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510970666587787354,
+      "text": "hola",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "12": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510974010970734592,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "13": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510975345799725191,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "14": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510975545838665849,
+      "text": "hola",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "15": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510976035632447592,
+      "text": "hola",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "16": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510977214164762715,
+      "text": "a",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "17": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510978202280005672,
+      "text": "a",
+      "status": "rejected",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "18": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510979310712918179,
+      "text": "a",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "19": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510979811013689446,
+      "text": "a",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "20": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510981303158439978,
+      "text": "hola",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "21": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510992881480106016,
+      "text": "a",
+      "status": "accepted",
+      "upvotes": [
+        1250504785602412645
+      ],
+      "downvotes": []
+    },
+    "22": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510993434159353857,
+      "text": "a",
+      "status": "rejected",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "23": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510995829245218989,
+      "text": "a",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": [
+        1250504785602412645
+      ]
+    },
+    "24": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510997071883272325,
+      "text": "a",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "25": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510997122030370978,
+      "text": "a",
+      "status": "rejected",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "26": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1510997376817565849,
+      "text": "a",
+      "status": "review",
+      "upvotes": [],
+      "downvotes": []
+    },
+    "27": {
+      "guild_id": 1416797891359543348,
+      "author_id": 1250504785602412645,
+      "message_id": 1511093297551249539,
+      "text": "hola",
+      "status": "accepted",
+      "upvotes": [],
+      "downvotes": [
+        1250504785602412645
+      ]
+    }
+  }
+}

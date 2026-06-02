@@ -1,4 +1,4 @@
-# 🤖 Discord Bot
+# 🤖 Kryon
 
 Este proyecto es un bot de Discord desarrollado en **Python** con el objetivo de proporcionar una base sólida, moderna y fácil de mantener para la creación de aplicaciones dentro de Discord. El código está estructurado para facilitar su personalización, ampliación y adaptación a distintos tipos de comunidades y proyectos. Su desarrollo sigue buenas prácticas de programación para garantizar un funcionamiento estable, un rendimiento eficiente y una experiencia sencilla tanto para desarrolladores principiantes como avanzados.
 

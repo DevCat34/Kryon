@@ -1,0 +1,4 @@
+.env    # Ignorar archivo ".env" plano
+.env.*  # Ignorar archivos ".env" de diferentes entornos (Ej. ".env.prod")
+
+!.env.example  # Permitir seguimiento del archivo ".env.example"

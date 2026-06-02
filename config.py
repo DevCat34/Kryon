@@ -7,3 +7,4 @@ TOKEN = os.getenv("DISCORD_TOKEN")  # Guardar token en .env
 DATA_FILE = "data.json"
 
 MAX_TIMEOUT_SECONDS = 28 * 24 * 3600  # 28 días
+# IMPORTANTE: Usar todos los imports establecidos en el archivo "imports.py"
